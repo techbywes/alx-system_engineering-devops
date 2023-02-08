@@ -1,6 +1,2 @@
 #!/bin/bash
-ls -al ../ | less
-
-ls -al . | less
-
-ls -al /boot | less
+ls -al ../ . /boot
