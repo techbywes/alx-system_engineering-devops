@@ -1,2 +1,2 @@
 #!/bin/bash
-username=$(0-iam_betty)
+id -un
